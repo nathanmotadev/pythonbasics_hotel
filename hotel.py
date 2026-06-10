@@ -1,6 +1,9 @@
 
 nome = (input("digite seu nome: "))
-menu = f'''
+class menu:
+    def __init__(self, opcoes):
+      self.opc = menu
+ menu = f'''
 ++++++++++++ MENU ++++++++++++
 1. Café da manhã
 2. Almoço
